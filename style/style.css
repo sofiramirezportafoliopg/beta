@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+.color1 {background-color: aqua}
+.color2 {background-color: aquamarine}
+.color3 {background-color: blueviolet}
+.color4 {background-color:cornflowerblue}
+
+
+
+.nav-link{color: blueviolet!important;}
+.nav-link:hover{color: yellowgreen !important; border-bottom: 3px solid yellowgreen!important;}
